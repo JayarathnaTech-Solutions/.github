@@ -14,7 +14,7 @@ Welcome to the official repository for the **JayarathnaTech** corporate platform
 
 ## Our Core Technological Expertise
 We employ modern, production-ready ecosystems to bring corporate digital visions to life:
-* **Architecture:** Next.js / React / Laravel *(ඔබේ ප්‍රධාන Framework එක මෙතැන ලියන්න)*
+* **Architecture:** Next.js / React / Laravel 
 * **Styling Framework:** Tailwind CSS
 * **Data Layer Security:** Encrypted APIs & Relational Database Infrastructures
 
@@ -38,4 +38,5 @@ Are you looking to scale your business operations with a secure, modern digital 
 ### Proprietary Software & Legal Notice
 This repository contains proprietary software. Code duplication, unauthorized redistribution, design cloning, or commercial derivatives of these assets without explicit prior written authorization from JayarathnaTech management is strictly prohibited. Legal protections are actively enforced via copyright frameworks.
 
+---
 <center>© 2026 JayarathnaTech. All rights reserved.</center>
