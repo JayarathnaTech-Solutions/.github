@@ -36,7 +36,7 @@ Are you looking to scale your business operations with a secure, modern digital 
 
 ---
 ### Proprietary Software & Legal Notice
-This repository contains proprietary software. Code duplication, unauthorized redistribution, design cloning, or commercial derivatives of these assets without explicit prior written authorization from JayarathnaTech management is strictly prohibited. Legal protections are actively enforced via copyright frameworks.
+This repository contains proprietary software. Code duplication, unauthorized redistribution, design cloning, or commercial derivatives of these assets without explicit prior written authorization from JayarathnaTech Solutions management is strictly prohibited. Legal protections are actively enforced via copyright frameworks.
 
 ---
 
