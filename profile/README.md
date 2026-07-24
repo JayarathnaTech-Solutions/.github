@@ -1,6 +1,6 @@
-# JayarathnaTech
+# JayarathnaTech Solutions
 
-Welcome to the official repository for the **JayarathnaTech** corporate platform. We are a forward-thinking technology partner dedicated to building high-performance digital products, enterprise web software, and scalable modern web ecosystems.
+Welcome to the official repository for the **JayarathnaTech Solutions** corporate platform. We are a forward-thinking technology partner dedicated to building high-performance digital products, enterprise web software, and scalable modern web ecosystems.
 
 ---
 
@@ -31,8 +31,8 @@ We build custom digital infrastructures designed to scale enterprises:
 ## Let's Build Something Exceptional Together
 Are you looking to scale your business operations with a secure, modern digital infrastructure? Get in touch with our engineering and design teams today.
 
-* **📧 Email Intercom:** support@jayarathnatech.com
-* **🌐 Corporate Portal:** [Visit JayarathnaTech Official Website](https://jayarathnatech.com)
+* **📧 Email Intercom:** support@jayarathnatechSolutions.com
+* **🌐 Corporate Portal:** [Visit JayarathnaTech Official Website](https://jayarathnatechsolutions.com)
 
 ---
 ### Proprietary Software & Legal Notice
@@ -40,4 +40,4 @@ This repository contains proprietary software. Code duplication, unauthorized re
 
 ---
 
-© 2026 JayarathnaTech. All rights reserved.
+© 2026 JayarathnaTech Solutions. All rights reserved.
